@@ -6,10 +6,19 @@ public class User {
     private String email;
     private String address;
     private String test;
+    private String test2;
     private String test3;
     private String test2;
 
     private String test4;
+
+    public String getTest2() {
+        return test2;
+    }
+
+    public void setTest2(String test2) {
+        this.test2 = test2;
+    }
 
     public String getTest3() {
         return test3;
