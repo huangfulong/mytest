@@ -6,6 +6,7 @@ public class User {
     private String email;
     private String address;
     private String test;
+    private String test3;
     private String test2;
 
     public String getTest() {
