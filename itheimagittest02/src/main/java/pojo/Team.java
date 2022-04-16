@@ -3,6 +3,8 @@ package pojo;
 public class Team {
     private String teamName;
     private String teamPassword;
+    private String test3;
+    private String test4;
 
     public String getTeamName() {
         return teamName;
